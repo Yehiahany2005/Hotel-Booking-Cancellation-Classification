@@ -55,4 +55,4 @@ The goal is to handle real-world tabular data, deal with class imbalance, optimi
 ---
 
 ## Project Documentation
-📄 [View Full Documentation PDF](https://github.com/Yehiahany2005/License-Plate-Recognition-System/blob/main/LPR%20Documentation.pdf)
+📄 [View Full Documentation PDF](https://github.com/Yehiahany2005/Hotel-Booking-Cancellation-Classification/blob/5d8c95583175fe726051a513bba9e70790354064/AI%20documentation%20pdf.pdf)
